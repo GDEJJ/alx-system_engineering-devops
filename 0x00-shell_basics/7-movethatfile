@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+echo "$(mv -i /tmp/betty  /tmp/my_first_directory)"
+
