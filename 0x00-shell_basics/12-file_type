@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(touch /tmp/file)" echo "$(file /tmp/file)"
+touch /tmp/file  file /tmp/file
