@@ -1,2 +1,2 @@
 #!/bin/bash
-sort /etc/passwd | uinq "root"
+grep "root" /etc/passwd
